@@ -5,5 +5,6 @@ const Spinner = () => {
         <img src={Spinnner} style={{width: '200px' , margin:'auto' ,display: 'block'}} alt='Loading' />
     )
 }
+console.log('object')
 
 export default Spinner
